@@ -449,7 +449,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
     // Load Config (Yaml) - Global for both pages
-    fetch(content_dir + config_file)
+    fetch(content_dir + config_file, {cache: 'no-cache'})
         .then(response => {
             if (!response.ok) throw new Error('Config file not found');
             return response.text();
