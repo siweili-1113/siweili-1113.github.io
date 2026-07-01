@@ -24,7 +24,7 @@ Large Language Models, LLM-based Agents, Game Theory
 
 #### 🌟 **Personal Links**
 
-[GitHub](https://github.com/lixiaoshuai1113)<br>
+[GitHub](https://github.com/siweili-1113)<br>
 [Bilibili](https://space.bilibili.com/176404587?spm_id_from=333.1007.0.0)<br>
 
 
